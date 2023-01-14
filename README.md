@@ -7,6 +7,7 @@ I used [this website](https://www.alphr.com/pip-is-not-recognized-as-an-internal
 pip install python_barcode
 ```
 Whatever we want to print on the barcode, we write it in ' text0 = "example" '.
+
 After the generate, we write the image name in ' save_img = image.save('lastNameBarcode') '.
 
 ![](/AtakanTurgutBarcode.png)
